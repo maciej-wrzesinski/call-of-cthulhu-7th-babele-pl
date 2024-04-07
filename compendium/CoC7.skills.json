@@ -1,0 +1,287 @@
+{
+  "label": "Umiejętności",
+  "entries": {
+    "Mechanical Repair": {
+      "name": "Mechanika"
+    },
+    "Science (Zoology)": {
+      "name": "Nauka (Zoologia)"
+    },
+    "Navigate": {
+      "name": "Nawigacja"
+    },
+    "Swim": {
+      "name": "Pływanie"
+    },
+    "Firearms (Heavy Weapons)": {
+      "name": "Broń Palna (Ciężka Broń)"
+    },
+    "Firearms (Flamethrower)": {
+      "name": "Broń Palna (Miotacz Ognia)"
+    },
+    "Diving": {
+      "name": "Nurkowanie"
+    },
+    "Fighting (Any)": {
+      "name": "Walka Wręcz (Różne)"
+    },
+    "Law": {
+      "name": "Prawo"
+    },
+    "Occult": {
+      "name": "Okultyzm"
+    },
+    "Science (Chemistry)": {
+      "name": "Nauka (Chemia)"
+    },
+    "Science (Engineering)": {
+      "name": "Nauka (Inżynieria)"
+    },
+    "Track": {
+      "name": "Tropienie"
+    },
+    "Library Use": {
+      "name": "Korzystanie z Bibliotek"
+    },
+    "Stealth": {
+      "name": "Ukrywanie"
+    },
+    "Science (Physics)": {
+      "name": "Nauka (Fizyka)"
+    },
+    "Rope Use": {
+      "name": "Użycie liny"
+    },
+    "Fighting (Chainsaw)": {
+      "name": "Walka Wręcz (Piła łańcuchowa)"
+    },
+    "Archaeology": {
+      "name": "Archeologia"
+    },
+    "Art/Craft (Any)": {
+      "name": "Sztuka/Rzemiosło (Różne)"
+    },
+    "Trap": {
+      "name": "Trap"
+    },
+    "Civics": {
+      "name": "Civics"
+    },
+    "Science (Biology)": {
+      "name": "Nauka (Biologia)"
+    },
+    "Fighting (Spear)": {
+      "name": "Walka Wręcz (Włócznia)"
+    },
+    "Charm": {
+      "name": "Urok Osobisty"
+    },
+    "Sleight of Hand": {
+      "name": "Zręczne Palce"
+    },
+    "Firearms (Handgun)": {
+      "name": "Broń Palna (Krótka)"
+    },
+    "Science (Any)": {
+      "name": "Nauka (Różne)"
+    },
+    "Psychology": {
+      "name": "Psychologia"
+    },
+    "Locksmith": {
+      "name": "Ślusarstwo"
+    },
+    "Listen": {
+      "name": "Nasłuchiwanie"
+    },
+    "Electrical Repair": {
+      "name": "Elektryka"
+    },
+    "Science (Forensics)": {
+      "name": "Nauka (Kryminalistyka)"
+    },
+    "Fighting (Flail)": {
+      "name": "Walka Wręcz (Morgensztern)"
+    },
+    "Drive Auto": {
+      "name": "Prowadzenie Samochodu"
+    },
+    "Fighting (Whip)": {
+      "name": "Walka Wręcz (Bicz)"
+    },
+    "Firearms (Machine Gun)": {
+      "name": "Broń Palna (Machine Gun)"
+    },
+    "Science (Geology)": {
+      "name": "Science (Geology)"
+    },
+    "Read Lips": {
+      "name": "Read Lips"
+    },
+    "Gambling": {
+      "name": "Gambling"
+    },
+    "Science (Botany)": {
+      "name": "Science (Botany)"
+    },
+    "Drive Carriage": {
+      "name": "Drive Carriage"
+    },
+    "Fighting (Axe)": {
+      "name": "Fighting (Axe)"
+    },
+    "Fighting (Garrote)": {
+      "name": "Fighting (Garrote)"
+    },
+    "Science (Mathematics)": {
+      "name": "Science (Mathematics)"
+    },
+    "Science (Cryptography)": {
+      "name": "Science (Cryptography)"
+    },
+    "Accounting": {
+      "name": "Accounting"
+    },
+    "History": {
+      "name": "History"
+    },
+    "Science (Pharmacy)": {
+      "name": "Science (Pharmacy)"
+    },
+    "Computer Use": {
+      "name": "Computer Use"
+    },
+    "Firearms (Bow)": {
+      "name": "Firearms (Bow)"
+    },
+    "Cthulhu Mythos": {
+      "name": "Cthulhu Mythos"
+    },
+    "Art/Craft (Photography)": {
+      "name": "Art/Craft (Photography)"
+    },
+    "Survival (Any)": {
+      "name": "Survival (Any)"
+    },
+    "Medicine": {
+      "name": "Medicine"
+    },
+    "Firearms (Any)": {
+      "name": "Firearms (Any)"
+    },
+    "Language (Any)": {
+      "name": "Language (Any)"
+    },
+    "Demolitions": {
+      "name": "Demolitions"
+    },
+    "Jump": {
+      "name": "Jump"
+    },
+    "Operate Heavy Machinery": {
+      "name": "Operate Heavy Machinery"
+    },
+    "Animal Handling": {
+      "name": "Animal Handling"
+    },
+    "Firearms (Submachine Gun)": {
+      "name": "Firearms (Submachine Gun)"
+    },
+    "Disguise": {
+      "name": "Disguise"
+    },
+    "Intimidate": {
+      "name": "Intimidate"
+    },
+    "Fighting (Sword)": {
+      "name": "Fighting (Sword)"
+    },
+    "Science (Astronomy)": {
+      "name": "Science (Astronomy)"
+    },
+    "Natural World": {
+      "name": "Natural World"
+    },
+    "Fast Talk": {
+      "name": "Fast Talk"
+    },
+    "Firearms (Rifle/Shotgun)": {
+      "name": "Firearms (Rifle/Shotgun)"
+    },
+    "Art/Craft (Acting)": {
+      "name": "Art/Craft (Acting)"
+    },
+    "Art/Craft (Fine Art)": {
+      "name": "Art/Craft (Fine Art)"
+    },
+    "Hypnosis": {
+      "name": "Hypnosis"
+    },
+    "Spot Hidden": {
+      "name": "Spot Hidden"
+    },
+    "First Aid": {
+      "name": "First Aid"
+    },
+    "Ride": {
+      "name": "Ride"
+    },
+    "Electronics": {
+      "name": "Electronics"
+    },
+    "Climb": {
+      "name": "Climb"
+    },
+    "Anthropology": {
+      "name": "Anthropology"
+    },
+    "Firearms (Artillery)": {
+      "name": "Firearms (Artillery)"
+    },
+    "Drive Horse / Oxen": {
+      "name": "Drive Horse / Oxen"
+    },
+    "Lore (Any)": {
+      "name": "Lore (Any)"
+    },
+    "Psychoanalysis": {
+      "name": "Psychoanalysis"
+    },
+    "Language (Own)": {
+      "name": "Language (Own)"
+    },
+    "Fighting (Throw)": {
+      "name": "Fighting (Throw)"
+    },
+    "Drive Wagon / Coach": {
+      "name": "Drive Wagon / Coach"
+    },
+    "Empire": {
+      "name": "Empire"
+    },
+    "Persuade": {
+      "name": "Persuade"
+    },
+    "Pilot (Any)": {
+      "name": "Pilot (Any)"
+    },
+    "Fighting (Brawl)": {
+      "name": "Walka Wręcz (Bijatyka)"
+    },
+    "Credit Rating": {
+      "name": "Credit Rating"
+    },
+    "Science (Meteorology)": {
+      "name": "Nauka (Meteorologia)"
+    },
+    "Dodge": {
+      "name": "Unik"
+    },
+    "Appraise": {
+      "name": "Appraise"
+    },
+    "Art/Craft (Forgery)": {
+      "name": "Art/Craft (Forgery)"
+    }
+  }
+}
