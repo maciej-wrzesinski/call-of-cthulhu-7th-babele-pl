@@ -50,7 +50,7 @@
       "name": "Nauka (Fizyka)"
     },
     "Rope Use": {
-      "name": "Użycie liny"
+      "name": "Użycie Liny"
     },
     "Fighting (Chainsaw)": {
       "name": "Walka Wręcz (Piła łańcuchowa)"
@@ -62,10 +62,10 @@
       "name": "Sztuka/Rzemiosło (Różne)"
     },
     "Trap": {
-      "name": "Trap"
+      "name": "Zastawianie Pułapek"
     },
     "Civics": {
-      "name": "Civics"
+      "name": "Prawo"
     },
     "Science (Biology)": {
       "name": "Nauka (Biologia)"
@@ -110,166 +110,163 @@
       "name": "Walka Wręcz (Bicz)"
     },
     "Firearms (Machine Gun)": {
-      "name": "Broń Palna (Machine Gun)"
+      "name": "Broń Palna (Karabin Maszynowy)"
     },
     "Science (Geology)": {
-      "name": "Science (Geology)"
+      "name": "Nauka (Geologia)"
     },
     "Read Lips": {
-      "name": "Read Lips"
+      "name": "Czytanie z Ruchu Warg"
     },
     "Gambling": {
-      "name": "Gambling"
+      "name": "Hazard"
     },
     "Science (Botany)": {
-      "name": "Science (Botany)"
+      "name": "Nauka (Botanika)"
     },
     "Drive Carriage": {
-      "name": "Drive Carriage"
+      "name": "Powożenie"
     },
     "Fighting (Axe)": {
-      "name": "Fighting (Axe)"
+      "name": "Walka Wręcz (Siekiera)"
     },
     "Fighting (Garrote)": {
-      "name": "Fighting (Garrote)"
+      "name": "Walka Wręcz (Garota)"
     },
     "Science (Mathematics)": {
-      "name": "Science (Mathematics)"
+      "name": "Nauka (Matematyka)"
     },
     "Science (Cryptography)": {
-      "name": "Science (Cryptography)"
+      "name": "Nauka (Kryptografia)"
     },
     "Accounting": {
-      "name": "Accounting"
+      "name": "Księgowość"
     },
     "History": {
-      "name": "History"
+      "name": "Historia"
     },
     "Science (Pharmacy)": {
-      "name": "Science (Pharmacy)"
+      "name": "Nauka (Farmacja)"
     },
     "Computer Use": {
-      "name": "Computer Use"
+      "name": "Korzystanie z Komputerów"
     },
     "Firearms (Bow)": {
-      "name": "Firearms (Bow)"
+      "name": "Broń Palna (Łuk)"
     },
     "Cthulhu Mythos": {
-      "name": "Cthulhu Mythos"
+      "name": "Mity Cthulhu"
     },
     "Art/Craft (Photography)": {
-      "name": "Art/Craft (Photography)"
+      "name": "Sztuka/Rzemiosło (Fotografia)"
     },
     "Survival (Any)": {
-      "name": "Survival (Any)"
+      "name": "Sztuka Przetrwania (Różne)"
     },
     "Medicine": {
-      "name": "Medicine"
+      "name": "Medycyna"
     },
     "Firearms (Any)": {
-      "name": "Firearms (Any)"
+      "name": "Broń Palna (Różne)"
     },
     "Language (Any)": {
-      "name": "Language (Any)"
+      "name": "Język (Różne)"
     },
     "Demolitions": {
-      "name": "Demolitions"
+      "name": "Ładunki Wybuchowe"
     },
     "Jump": {
-      "name": "Jump"
+      "name": "Skakanie"
     },
     "Operate Heavy Machinery": {
-      "name": "Operate Heavy Machinery"
+      "name": "Obsługa Ciężkiego Sprzętu"
     },
     "Animal Handling": {
-      "name": "Animal Handling"
+      "name": "Opieka nad Zwierzętami"
     },
     "Firearms (Submachine Gun)": {
-      "name": "Firearms (Submachine Gun)"
+      "name": "Broń Palna (Pistolet maszynowy)"
     },
     "Disguise": {
-      "name": "Disguise"
+      "name": "Charakteryzacja"
     },
     "Intimidate": {
-      "name": "Intimidate"
+      "name": "Zastraszanie"
     },
     "Fighting (Sword)": {
-      "name": "Fighting (Sword)"
+      "name": "Walka Wręcz (Miecz)"
     },
     "Science (Astronomy)": {
-      "name": "Science (Astronomy)"
+      "name": "Nauka (Astronomia)"
     },
     "Natural World": {
-      "name": "Natural World"
+      "name": "Wiedza o Naturze"
     },
     "Fast Talk": {
-      "name": "Fast Talk"
+      "name": "Gadanina"
     },
     "Firearms (Rifle/Shotgun)": {
-      "name": "Firearms (Rifle/Shotgun)"
+      "name": "Broń Palna (Karabin/Strzelba)"
     },
     "Art/Craft (Acting)": {
-      "name": "Art/Craft (Acting)"
+      "name": "Sztuka/Rzemiosło (Aktorstwo)"
     },
     "Art/Craft (Fine Art)": {
-      "name": "Art/Craft (Fine Art)"
+      "name": "Sztuka/Rzemiosło (Sztuki Piękne)"
     },
     "Hypnosis": {
-      "name": "Hypnosis"
+      "name": "Hipnoza"
     },
     "Spot Hidden": {
-      "name": "Spot Hidden"
+      "name": "Spostrzegawczość"
     },
     "First Aid": {
-      "name": "First Aid"
+      "name": "Pierwsza Pomoc"
     },
     "Ride": {
-      "name": "Ride"
+      "name": "Prowadzenie Samochodu"
     },
     "Electronics": {
-      "name": "Electronics"
+      "name": "Elektronika"
     },
     "Climb": {
-      "name": "Climb"
+      "name": "Wspinaczka"
     },
     "Anthropology": {
-      "name": "Anthropology"
+      "name": "Antropologia"
     },
     "Firearms (Artillery)": {
-      "name": "Firearms (Artillery)"
+      "name": "Broń Palna (Altyleria)"
     },
     "Drive Horse / Oxen": {
-      "name": "Drive Horse / Oxen"
+      "name": "Jeździctwo"
     },
     "Lore (Any)": {
-      "name": "Lore (Any)"
+      "name": "Wiedza (Różne)"
     },
     "Psychoanalysis": {
-      "name": "Psychoanalysis"
+      "name": "Psychoanaliza"
     },
     "Language (Own)": {
-      "name": "Language (Own)"
+      "name": "Język Ojczysty"
     },
     "Fighting (Throw)": {
-      "name": "Fighting (Throw)"
+      "name": "Walka Wręcz (Rzucana)"
     },
     "Drive Wagon / Coach": {
-      "name": "Drive Wagon / Coach"
-    },
-    "Empire": {
-      "name": "Empire"
+      "name": "Prowadzenie Dyliżansu"
     },
     "Persuade": {
-      "name": "Persuade"
+      "name": "Przekonywanie"
     },
     "Pilot (Any)": {
-      "name": "Pilot (Any)"
+      "name": "Pilotowanie (Różne)"
     },
     "Fighting (Brawl)": {
       "name": "Walka Wręcz (Bijatyka)"
     },
     "Credit Rating": {
-      "name": "Credit Rating"
+      "name": "Majętność"
     },
     "Science (Meteorology)": {
       "name": "Nauka (Meteorologia)"
@@ -278,10 +275,10 @@
       "name": "Unik"
     },
     "Appraise": {
-      "name": "Appraise"
+      "name": "Wycena"
     },
     "Art/Craft (Forgery)": {
-      "name": "Art/Craft (Forgery)"
+      "name": "Sztuka/Rzemiosło (Fałszerstwo)"
     }
   }
 }
