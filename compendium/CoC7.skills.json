@@ -14,7 +14,7 @@
       "name": "Pływanie"
     },
     "Firearms (Heavy Weapons)": {
-      "name": "Broń Palna (Ciężka Broń)"
+      "name": "Broń Palna (Ciężka)"
     },
     "Firearms (Flamethrower)": {
       "name": "Broń Palna (Miotacz Ognia)"
@@ -53,7 +53,7 @@
       "name": "Użycie Liny"
     },
     "Fighting (Chainsaw)": {
-      "name": "Walka Wręcz (Piła łańcuchowa)"
+      "name": "Walka Wręcz (Piła Łańcuchowa)"
     },
     "Archaeology": {
       "name": "Archeologia"
@@ -65,7 +65,7 @@
       "name": "Zastawianie Pułapek"
     },
     "Civics": {
-      "name": "Prawo"
+      "name": "Wiedza o Społeczeństwie"
     },
     "Science (Biology)": {
       "name": "Nauka (Biologia)"
@@ -224,7 +224,7 @@
       "name": "Pierwsza Pomoc"
     },
     "Ride": {
-      "name": "Prowadzenie Samochodu"
+      "name": "Jeździectwo"
     },
     "Electronics": {
       "name": "Elektronika"
@@ -239,7 +239,7 @@
       "name": "Broń Palna (Altyleria)"
     },
     "Drive Horse / Oxen": {
-      "name": "Jeździctwo"
+      "name": "Prowadzenie Zwierząt Pociągowych"
     },
     "Lore (Any)": {
       "name": "Wiedza (Różne)"
